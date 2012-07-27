@@ -1,11 +1,11 @@
-Name:		mate-mime-data
 Summary:	The MATE MIME database files
-Version:	1.2.2
+Name:		mate-mime-data
+Version:	1.4.0
 Release:	1
 License:	GPLv2
 Group:		System/Libraries
 URL:		http://mate-desktop.org
-Source0:	http://pub.mate-desktop.org/releases/1.2/%{name}/%{name}-%{version}.tar.xz
+Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}/%{name}-%{version}.tar.xz
 BuildArch:	noarch
 
 BuildRequires:	intltool
