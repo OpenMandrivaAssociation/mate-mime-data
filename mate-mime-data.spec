@@ -49,3 +49,14 @@ NOCONFIGURE=yes ./autogen.sh
 %files devel
 %{_datadir}/pkgconfig/*.pc
 
+
+
+%changelog
+* Fri Jul 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.4.0-1
++ Revision: 811337
+- new version 1.4.0
+
+* Thu May 31 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.2-1
++ Revision: 801571
+- imported package mate-mime-data
+
